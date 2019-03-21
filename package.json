@@ -1,0 +1,20 @@
+{
+  "name": "xspf-playlist-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "fast-xml-parser": "^3.12.14",
+    "he": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0",
+    "rimraf": "^2.6.3"
+  }
+}
